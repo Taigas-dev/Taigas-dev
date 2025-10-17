@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+o+Taigas-dev;Fullstack+Developer;Apaixonado+por+Tecnologia" alt="Typing SVG" />
-</p>
 
----
 
 ## 💻 Tech Stack
 
@@ -65,7 +61,7 @@
 ## 💰 Apoia-me
 
 <p align="center">
-  <a href="https://buymeacoffee.com/joaosilva">
+  <a href="https://buymeacoffee.com/taigasdev">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </p>
